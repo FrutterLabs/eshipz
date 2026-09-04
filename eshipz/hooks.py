@@ -35,6 +35,7 @@ app_license = "mit"
 doctype_js = {
     "Shipment" : "custom/shipment/shipment.js",
 }
+doctype_list_js = {"Shipment" : "custom/shipment/shipment_list.js"}
 
 # Svg Icons
 # ------------------
